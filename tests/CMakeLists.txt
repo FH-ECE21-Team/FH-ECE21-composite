@@ -13,6 +13,7 @@ ADD_EXECUTABLE(
   sensor-w1-suite.cpp
 
   switch-mock-basic.cpp
+  switch-composite.cpp
 
   hysteresis-falls_below_range.cpp
   hysteresis-nop_when_within_range.cpp
